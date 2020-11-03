@@ -2849,4 +2849,17 @@
     },
     "cost": 2
   }
+{
+    "name": "DevOpsDays Warsaw Online",
+    "url": "https://devopsdays.pl",
+    "date": {
+      "start": "2020-11-18T09:00:08.000Z",
+      "end": "2020-11-19T18:00:08.000Z"
+    },
+    "temperature": {
+      "celsius": 7,
+      "fahrenheit": 46
+    },
+    "cost": 1
+}  
 ]
